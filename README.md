@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aadarshsingh06/DSA-practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshsingh06/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/aadarshsingh06/DSA-practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/aadarshsingh06/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/aadarshsingh06/DSA-practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadarshsingh06/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadarshsingh06/DSA-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/aadarshsingh06/DSA-practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/aadarshsingh06/DSA-practice/tree/master/0041-first-missing-positive) |
 ## Greedy
 |  |
 | ------- |
