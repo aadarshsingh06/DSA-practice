@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aadarshsingh06/DSA-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aadarshsingh06/DSA-practice/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aadarshsingh06/DSA-practice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/aadarshsingh06/DSA-practice/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aadarshsingh06/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aadarshsingh06/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aadarshsingh06/DSA-practice/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/aadarshsingh06/DSA-practice/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aadarshsingh06/DSA-practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/aadarshsingh06/DSA-practice/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
