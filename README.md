@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadarshsingh06/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aadarshsingh06/DSA-practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aadarshsingh06/DSA-practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aadarshsingh06/DSA-practice/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadarshsingh06/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aadarshsingh06/DSA-practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aadarshsingh06/DSA-practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aadarshsingh06/DSA-practice/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aadarshsingh06/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/aadarshsingh06/DSA-practice/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
