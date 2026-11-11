@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aadarshsingh06/DSA-practice/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aadarshsingh06/DSA-practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aadarshsingh06/DSA-practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/aadarshsingh06/DSA-practice/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aadarshsingh06/DSA-practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aadarshsingh06/DSA-practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/aadarshsingh06/DSA-practice/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/aadarshsingh06/DSA-practice/tree/master/0066-plus-one) |
 ## Greedy
 |  |
 | ------- |
