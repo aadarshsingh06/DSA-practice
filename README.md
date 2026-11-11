@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aadarshsingh06/DSA-practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aadarshsingh06/DSA-practice/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aadarshsingh06/DSA-practice/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/aadarshsingh06/DSA-practice/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aadarshsingh06/DSA-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aadarshsingh06/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadarshsingh06/DSA-practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aadarshsingh06/DSA-practice/tree/master/0062-unique-paths) |
 ## Manacher
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/aadarshsingh06/DSA-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aadarshsingh06/DSA-practice/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aadarshsingh06/DSA-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
