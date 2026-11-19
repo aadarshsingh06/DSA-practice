@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aadarshsingh06/DSA-practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/aadarshsingh06/DSA-practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aadarshsingh06/DSA-practice/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aadarshsingh06/DSA-practice/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/aadarshsingh06/DSA-practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aadarshsingh06/DSA-practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/aadarshsingh06/DSA-practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aadarshsingh06/DSA-practice/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/aadarshsingh06/DSA-practice/tree/master/0068-text-justification) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aadarshsingh06/DSA-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aadarshsingh06/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aadarshsingh06/DSA-practice/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aadarshsingh06/DSA-practice/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
